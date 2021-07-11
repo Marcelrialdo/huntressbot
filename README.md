@@ -6,7 +6,7 @@
     
   </a>
   <a href="https://github.com/ramadhani892/RAM-UBOT">
-    <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
+    <img src="https://img.shields.io/github/stars/marcelrialdo213/huntressbot?style=social">
   </a>
 </p>  
 
